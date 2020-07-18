@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "360047029444",
+    "firebase_url": "https://kisaanmate.firebaseio.com",
+    "project_id": "kisaanmate",
+    "storage_bucket": "kisaanmate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360047029444:android:978fc84785ffb8619c6d91",
+        "android_client_info": {
+          "package_name": "com.iworkpace.kisaanmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360047029444-8f6rusjhqnhb5rdl19jl85l8m1dottic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iworkpace.kisaanmate",
+            "certificate_hash": "f0427266312af3d36c2ec39920a6567afc182956"
+          }
+        },
+        {
+          "client_id": "360047029444-2cvvche6ei2ieibeg4i85iin1mqo33ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCqkhRxL7Cv4F5fu2zRAjtVH1wm6G5xlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360047029444-2cvvche6ei2ieibeg4i85iin1mqo33ci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

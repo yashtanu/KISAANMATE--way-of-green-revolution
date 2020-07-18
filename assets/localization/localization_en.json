@@ -1,0 +1,18 @@
+{
+  "continue_mobile": "Continue with Mobile",
+  "enter_mobile_no": "Enter mobile number",
+  "invalid_mobile_entry": "Please enter valid mobile number",
+  "enter_otp": "Please enter OTP send to you via SMS",
+  "proceed": "Proceed with Login",
+  "welcome_user": "Welcome user",
+  "history": "History",
+  "check_plant": "Check Plant",
+  "result": "Result",
+  "plant_name_type": "Plant Name/Type",
+  "disease_detected": "Disease detected",
+  "recommend_remedy": "Recommended Remedies",
+  "camera": "Camera",
+  "gallery": "Gallery",
+  "symptoms": "Symptoms",
+  "cause_comment": "Cause & comment"
+}
